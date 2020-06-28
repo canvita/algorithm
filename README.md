@@ -8,5 +8,6 @@
 
 - removeDuplicates_26
 - convertToTitle_168
+- maxProfit_122
 
 ###
