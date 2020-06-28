@@ -1,4 +1,4 @@
-/**
+/** 简单的解法
  * @param {number[]} nums
  * @return {number}
  */
@@ -14,4 +14,21 @@ var removeDuplicates = function (nums) {
     i++;
   }
   return nums.length;
+};
+
+/** 双指针的解法
+ * @param {number[]} nums
+ * @return {number}
+ */
+var removeDuplicates = function (nums) {
+  let length = nums.length;
+  if (length === 0 || length === 1) return length;
+  let i = 0;
+  for (let j = 1; j < length; j++) {
+    if (nums[i] !== nums[j]) {
+      i++;
+      nums[i] = nums[j];
+    }
+  }
+  return i + 1;
 };
