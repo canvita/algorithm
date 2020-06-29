@@ -15,3 +15,4 @@
 - [removeDuplicates_26](https://github.com/canvita/algorithm/blob/master/src/primary/removeDuplicates_26.js)
 
 - [maxProfit_122](https://github.com/canvita/algorithm/blob/master/src/primary/maxProfit_122.js)
+- [convertToTitle_168](https://github.com/canvita/algorithm/blob/master/src/primary/convertToTitle_168.js)
