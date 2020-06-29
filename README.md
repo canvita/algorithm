@@ -1,14 +1,14 @@
 # algorithm
 
-### 6.24
+### 2020.06.24
 
-- removeDuplicates_26
+- [removeDuplicates_26](https://github.com/canvita/algorithm/blob/master/src/primary/removeDuplicates_26.js)
 
-### 6.28
+### 2020.06.28
 
-- removeDuplicates_26
-- convertToTitle_168
-- maxProfit_122
+- [removeDuplicates_26](https://github.com/canvita/algorithm/blob/master/src/primary/removeDuplicates_26.js)
+- [convertToTitle_168](https://github.com/canvita/algorithm/blob/master/src/primary/convertToTitle_168.js)
+- [maxProfit_122](https://github.com/canvita/algorithm/blob/master/src/primary/maxProfit_122.js)
 
 ### 2020.06.29
 
