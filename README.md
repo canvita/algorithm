@@ -18,3 +18,6 @@
 - [convertToTitle_168](https://github.com/canvita/algorithm/blob/master/src/primary/convertToTitle_168.js)
 - [rotate_189](https://github.com/canvita/algorithm/blob/master/src/primary/rotate_189.js)
 - [findMaxLength_525](https://github.com/canvita/algorithm/blob/master/src/primary/findMaxLength_525.js)
+### 2020.06.30
+
+- [isValid_20](https://github.com/canvita/algorithm/blob/master/src/primary/isValid_20.js)
