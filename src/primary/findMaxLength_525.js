@@ -25,8 +25,8 @@ var findMaxLength = function (nums) {
 };
 
 /** 解法2, 使用hashMap
- * 时间复杂度: O(n ^ 2)
- * 空间复杂度: O(1)
+ * 时间复杂度: O(n)
+ * 空间复杂度: O(n)
  * @param {number[]} nums
  * @return {number}
  */
