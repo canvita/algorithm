@@ -24,3 +24,6 @@
 - [containsDuplicate_217](https://github.com/canvita/algorithm/blob/master/src/primary/containsDuplicate_217.js)
 - [rotate_189](https://github.com/canvita/algorithm/blob/master/src/primary/rotate_189.js)
 - [findMaxLength_525](https://github.com/canvita/algorithm/blob/master/src/primary/findMaxLength_525.js)
+### 2020.07.01
+
+- [singleNumber_136](https://github.com/canvita/algorithm/blob/master/src/primary/singleNumber_136.js)
