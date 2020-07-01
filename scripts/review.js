@@ -21,8 +21,8 @@ fs.readFile("./README.md", "utf8", (err, data) => {
   });
   const oneDay = 1000 * 60 * 60 * 24;
   const secondDate = moment(+moment() - oneDay).format("YYYY.MM.DD");
-  const thirdDate = moment(+moment() - 2 * oneDay).format("YYYY.MM.DD");
-  const forthDate = moment(+moment() - 3 * oneDay).format("YYYY.MM.DD");
+  const thirdDate = moment(+moment() - 7 * oneDay).format("YYYY.MM.DD");
+  const forthDate = moment(+moment() - 30 * oneDay).format("YYYY.MM.DD");
   const result = {
     second: dateContainer[secondDate],
     third: dateContainer[thirdDate],
