@@ -29,3 +29,5 @@
 
 - [singleNumber_136](https://github.com/canvita/algorithm/blob/master/src/primary/singleNumber_136.js)
 - [binarySearch](https://github.com/canvita/algorithm/blob/master/src/primary/binarySearch.js)
+
+- [isValid_20](https://github.com/canvita/algorithm/blob/master/src/primary/isValid_20.js)
