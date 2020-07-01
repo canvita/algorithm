@@ -27,3 +27,4 @@
 ### 2020.07.01
 
 - [singleNumber_136](https://github.com/canvita/algorithm/blob/master/src/primary/singleNumber_136.js)
+- [binarySearch](https://github.com/canvita/algorithm/blob/master/src/primary/binarySearch.js)
