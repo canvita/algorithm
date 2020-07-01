@@ -31,3 +31,4 @@
 - [binarySearch](https://github.com/canvita/algorithm/blob/master/src/primary/binarySearch.js)
 
 - [isValid_20](https://github.com/canvita/algorithm/blob/master/src/primary/isValid_20.js)
+- [containsDuplicate_217](https://github.com/canvita/algorithm/blob/master/src/primary/containsDuplicate_217.js)
