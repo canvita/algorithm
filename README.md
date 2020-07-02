@@ -36,3 +36,4 @@
 ### 2020.07.02
 
 - [solution_278](https://github.com/canvita/algorithm/blob/master/src/primary/solution_278.js)
+- [search_33](https://github.com/canvita/algorithm/blob/master/src/primary/search_33.js)
