@@ -37,3 +37,4 @@
 
 - [solution_278](https://github.com/canvita/algorithm/blob/master/src/primary/solution_278.js)
 - [search_33](https://github.com/canvita/algorithm/blob/master/src/primary/search_33.js)
+- [singleNumber_136](https://github.com/canvita/algorithm/blob/master/src/primary/singleNumber_136.js)
