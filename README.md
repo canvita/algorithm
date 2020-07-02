@@ -33,3 +33,6 @@
 - [isValid_20](https://github.com/canvita/algorithm/blob/master/src/primary/isValid_20.js)
 - [containsDuplicate_217](https://github.com/canvita/algorithm/blob/master/src/primary/containsDuplicate_217.js)
 - [removeDuplicates_26](https://github.com/canvita/algorithm/blob/master/src/primary/removeDuplicates_26.js)
+### 2020.07.02
+
+- [solution_278](https://github.com/canvita/algorithm/blob/master/src/primary/solution_278.js)
