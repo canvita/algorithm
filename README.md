@@ -39,3 +39,6 @@
 - [search_33](https://github.com/canvita/algorithm/blob/master/src/primary/search_33.js)
 - [singleNumber_136](https://github.com/canvita/algorithm/blob/master/src/primary/singleNumber_136.js)
 - [binarySearch](https://github.com/canvita/algorithm/blob/master/src/primary/binarySearch.js)
+### 2020.07.07
+
+- [sort](https://github.com/canvita/algorithm/blob/master/src/primary/sort.js)
