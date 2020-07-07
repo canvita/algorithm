@@ -46,3 +46,4 @@
 - [solution_278](https://github.com/canvita/algorithm/blob/master/src/primary/solution_278.js)
 - [search_33](https://github.com/canvita/algorithm/blob/master/src/primary/search_33.js)
 - [isValid_20](https://github.com/canvita/algorithm/blob/master/src/primary/isValid_20.js)
+- [containsDuplicate_217](https://github.com/canvita/algorithm/blob/master/src/primary/containsDuplicate_217.js)
