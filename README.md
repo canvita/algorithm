@@ -50,3 +50,4 @@
 ### 2020.07.08
 
 - [isPalindrome_125](https://github.com/canvita/algorithm/blob/master/src/primary/isPalindrome_125.js)
+- [binaryTree](https://github.com/canvita/algorithm/blob/master/src/primary/binaryTree.js)
