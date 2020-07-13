@@ -46,3 +46,4 @@
 ### 2020.07.13
 
 - [isSubsequence_392](https://github.com/canvita/algorithm/blob/master/src/primary/isSubsequence_392.js)
+- [singleNumber_137](https://github.com/canvita/algorithm/blob/master/src/primary/singleNumber_137.js)
