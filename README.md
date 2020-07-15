@@ -50,3 +50,6 @@
 ### 2020.07.14
 
 - [brokenCalc_991](https://github.com/canvita/algorithm/blob/master/src/primary/brokenCalc_991.js)
+### 2020.07.15
+
+- [minimumSwap_1247](https://github.com/canvita/algorithm/blob/master/src/primary/minimumSwap_1247.js)
