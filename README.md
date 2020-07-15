@@ -53,3 +53,4 @@
 ### 2020.07.15
 
 - [minimumSwap_1247](https://github.com/canvita/algorithm/blob/master/src/primary/minimumSwap_1247.js)
+- [minimumSwap_1247](https://github.com/canvita/algorithm/blob/master/src/primary/minimumSwap_1247.js)
