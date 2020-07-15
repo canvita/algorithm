@@ -54,3 +54,4 @@
 
 - [minimumSwap_1247](https://github.com/canvita/algorithm/blob/master/src/primary/minimumSwap_1247.js)
 - [minimumSwap_1247](https://github.com/canvita/algorithm/blob/master/src/primary/minimumSwap_1247.js)
+- [lemonadeChange_860](https://github.com/canvita/algorithm/blob/master/src/primary/lemonadeChange_860.js)
