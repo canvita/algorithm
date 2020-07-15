@@ -5,7 +5,7 @@
 function rbgToRex(rgbStr) {
   const reg = /\d{1,3}/g;
   const a = rgbStr.match(reg) || [];
-  const ffStr = a.map(toHex).join("");
+  const ffStr = a.map(toHex).join('');
   return `#${ffStr}`;
 }
 /**
@@ -34,4 +34,4 @@ function HexToRgb(hexStr) {
 function toDig(str) {
   return parseInt(str, 16);
 }
-console.log(HexToRgb("#00F58A"));
+console.log(rbgToRex(HexToRgb('#00F58A')));
