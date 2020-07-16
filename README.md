@@ -58,3 +58,5 @@
 ### 2020.07.16
 
 - [solveNQueens](https://github.com/canvita/algorithm/blob/master/src/primary/solveNQueens.js)
+- [coinChange_322](https://github.com/canvita/algorithm/blob/master/src/primary/coinChange_322.js)
+- [isMatch_44](https://github.com/canvita/algorithm/blob/master/src/primary/isMatch_44.js)
