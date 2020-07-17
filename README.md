@@ -64,3 +64,4 @@
 
 - [minDistDP](https://github.com/canvita/algorithm/blob/master/src/primary/minDistDP.js)
 - [zeroOneBag](https://github.com/canvita/algorithm/blob/master/src/primary/zeroOneBag.js)
+- [lastStoneWeightII_1049](https://github.com/canvita/algorithm/blob/master/src/primary/lastStoneWeightII_1049.js)
