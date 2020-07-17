@@ -6,6 +6,7 @@
 var isMatch = function (s, p) {
   let flag = false;
   function isMatchFn(leftS, leftP) {
+    if (flag) return;
     if (leftP === leftS || leftP === '*' || (leftP.length === 0 && leftS.length === 0)) {
       flag = true;
       return;
