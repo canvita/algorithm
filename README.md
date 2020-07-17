@@ -63,3 +63,4 @@
 ### 2020.07.17
 
 - [minDistDP](https://github.com/canvita/algorithm/blob/master/src/primary/minDistDP.js)
+- [zeroOneBag](https://github.com/canvita/algorithm/blob/master/src/primary/zeroOneBag.js)
