@@ -60,3 +60,6 @@
 - [solveNQueens](https://github.com/canvita/algorithm/blob/master/src/primary/solveNQueens.js)
 - [coinChange_322](https://github.com/canvita/algorithm/blob/master/src/primary/coinChange_322.js)
 - [isMatch_44](https://github.com/canvita/algorithm/blob/master/src/primary/isMatch_44.js)
+### 2020.07.17
+
+- [minDistDP](https://github.com/canvita/algorithm/blob/master/src/primary/minDistDP.js)
