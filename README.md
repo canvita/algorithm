@@ -43,25 +43,35 @@
 
 - [LRUCache_146](https://github.com/canvita/algorithm/blob/master/src/primary/LRUCache_146.js)
 - [moveZeroes_283](https://github.com/canvita/algorithm/blob/master/src/primary/moveZeroes_283.js)
+
 ### 2020.07.13
 
 - [isSubsequence_392](https://github.com/canvita/algorithm/blob/master/src/primary/isSubsequence_392.js)
 - [singleNumber_137](https://github.com/canvita/algorithm/blob/master/src/primary/singleNumber_137.js)
+
 ### 2020.07.14
 
 - [brokenCalc_991](https://github.com/canvita/algorithm/blob/master/src/primary/brokenCalc_991.js)
+
 ### 2020.07.15
 
 - [minimumSwap_1247](https://github.com/canvita/algorithm/blob/master/src/primary/minimumSwap_1247.js)
 - [minimumSwap_1247](https://github.com/canvita/algorithm/blob/master/src/primary/minimumSwap_1247.js)
 - [lemonadeChange_860](https://github.com/canvita/algorithm/blob/master/src/primary/lemonadeChange_860.js)
+
 ### 2020.07.16
 
 - [solveNQueens](https://github.com/canvita/algorithm/blob/master/src/primary/solveNQueens.js)
 - [coinChange_322](https://github.com/canvita/algorithm/blob/master/src/primary/coinChange_322.js)
 - [isMatch_44](https://github.com/canvita/algorithm/blob/master/src/primary/isMatch_44.js)
+
 ### 2020.07.17
 
 - [minDistDP](https://github.com/canvita/algorithm/blob/master/src/primary/minDistDP.js)
 - [zeroOneBag](https://github.com/canvita/algorithm/blob/master/src/primary/zeroOneBag.js)
 - [lastStoneWeightII_1049](https://github.com/canvita/algorithm/blob/master/src/primary/lastStoneWeightII_1049.js)
+
+### 2020.07.20
+
+- [BST](https://github.com/canvita/algorithm/blob/master/src/primary/BST.js)
+- [sort.js](https://github.com/canvita/algorithm/blob/master/src/primary/sort.js)
