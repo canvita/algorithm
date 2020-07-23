@@ -75,3 +75,7 @@
 
 - [BST](https://github.com/canvita/algorithm/blob/master/src/primary/BST.js)
 - [sort.js](https://github.com/canvita/algorithm/blob/master/src/primary/sort.js)
+
+### 2020.07.23
+
+- [zeroOneBag](https://github.com/canvita/algorithm/blob/master/src/primary/zeroOneBag.js)
